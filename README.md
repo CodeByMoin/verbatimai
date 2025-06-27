@@ -12,7 +12,7 @@
 ✅ **Meeting Summaries & Action Points**  
 ✅ **Next Steps Extraction**  
 ✅ **Confidence & Sentiment Analysis**  
-✅ **Supports Audio & Video Uploads**  
+✅ **Supports Audio Uploads**  
 ✅ **Clean, Modern UI (Built with React & Tailwind CSS)**  
 ✅ **Fully Responsive & Mobile Friendly**
 
