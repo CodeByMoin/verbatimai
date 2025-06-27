@@ -2,6 +2,8 @@
 
 > 🚀 Turn speech into **actionable meeting minutes** in seconds. VerbtimAI automatically transcribes audio, extracts key points, and delivers summaries, tasks, and next steps – all with the power of AI.
 
+🌐 **Live App:** [https://verbatimai-ten.vercel.app](https://verbatimai-ten.vercel.app)
+
 ![VerbtimAI Banner](./assets/verbtim-banner.png)
 
 ---
